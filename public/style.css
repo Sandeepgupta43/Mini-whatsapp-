@@ -1,0 +1,20 @@
+body{
+    display:flex;
+    justify-content:center;
+    flex-direction:column;
+    align-items:center;
+}
+
+
+.chat{
+    background-color:lightblue;
+    padding:20px;
+    display:inline-block;
+    border-radius:15px;
+    width:400px;
+}
+.msg{
+    background-color:darkblue;
+    color:white;
+    border-radius:10px;
+}
